@@ -104,7 +104,7 @@ h1 {
 }
 
 
-#intro h1 {
+intro h1 {
 
   
   color: #f68084;
@@ -174,7 +174,7 @@ Walaupun eksternal p { color: blue; } dan internal p { color: orange; }, hasil a
 }
 
 
-#paragraf-1 {
+paragraf-1 {
 
   
   color: #f68084;
@@ -184,3 +184,4 @@ Walaupun eksternal p { color: blue; } dan internal p { color: orange; }, hasil a
 
 
 Jadi teks berwarna pink pastel karena ID lebih kuat dibanding class.
+
