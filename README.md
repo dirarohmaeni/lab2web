@@ -51,6 +51,8 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
 ### Jawaban:
+
+
 1. 
 body {
 
@@ -184,4 +186,5 @@ paragraf-1 {
 
 
 Jadi teks berwarna pink pastel karena ID lebih kuat dibanding class.
+
 
